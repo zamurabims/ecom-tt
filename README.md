@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # todos v1.0.0
 Тестовое задания на стажировку в ecom.tech.
 ---
@@ -87,3 +88,10 @@ go test ./...
     "completed": false
 }
 ```
+
+## Контакты
+Nikita Zamura — zamyranikita@gmail.com  
+Telegram — @mysurnameiszamura
+
+
+<p align="right">(<a href="#readme-top">Вернуться к началу</a>)</p>
