@@ -91,7 +91,7 @@ go test ./...
 
 ## Контакты
 Nikita Zamura — zamyranikita@gmail.com  
-Telegram — @mysurnameiszamura
+Telegram — [@mysurnameiszamura](http://t.me/mysurnameiszamura)
 
 
 <p align="right">(<a href="#readme-top">Вернуться к началу</a>)</p>
