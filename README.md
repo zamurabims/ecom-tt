@@ -68,7 +68,7 @@ docker run -p 8080:8080 ecom-tt
 ```
 ## Запуск unit-test'ов
 ```text
-go test./...
+go test ./...
 ```
 ## Пример POST-запроса ("http://localhost:8080/todos")
 ```text
